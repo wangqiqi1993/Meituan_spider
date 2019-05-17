@@ -56,7 +56,7 @@ def save(data):
         else:
             return 0
 
-    conn = pymysql.connect(host='localhost', user='root', password='8911980', port=3306, db='test')
+    conn = pymysql.connect(host='localhost', user='root', password='****', port=3306, db='test')
     cursor = conn.cursor()
     table_name = 'meishi'
     if (table_exists(cursor, table_name) != 1):
