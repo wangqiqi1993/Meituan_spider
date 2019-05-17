@@ -1,2 +1,3 @@
-ÅÀÈ¡±±¾©µØÇøÃÀÍÅÃÀÊ³ËùÓÐµÄÉÌÆÌÐÅÏ¢£¬²¢½«Æä´æÈëMysql£¬ÉÔºó»á¶ÔÆä½øÐÐ·ÖÎö
-ÖªºõÏêÇéÁ´½Ó£ºhttps://zhuanlan.zhihu.com/p/66161565
+çˆ¬å–åŒ—äº¬åœ°åŒºç¾Žå›¢ç¾Žé£Ÿæ‰€æœ‰çš„å•†é“ºä¿¡æ¯ï¼Œå¹¶å°†å…¶å­˜å…¥Mysqlï¼Œç¨åŽä¼šå¯¹å…¶è¿›è¡Œåˆ†æž
+çŸ¥ä¹Žè¯¦æƒ…é“¾æŽ¥ï¼šhttps://zhuanlan.zhihu.com/p/66161565
+å‚è€ƒåœ°å€https://github.com/Northxw/Meituan/
